@@ -1,0 +1,36 @@
+body {
+  background: url(images/cartographer.png) #f1f1f1;
+  font-family: monospace;
+}
+
+.heading {
+  font-family: cursive;
+}
+
+.hero {
+  background: rgba(255, 255, 255, 0.6);
+  width: 60vw;
+  margin: 30px 30px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.hero p {
+  font-size: 20px;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  margin: 30px 30px;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.links > * {
+  margin-right: 20px;
+}
+
+.envelop-icon {
+  font-size: 64px;
+}
