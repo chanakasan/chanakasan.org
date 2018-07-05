@@ -1,0 +1,11 @@
+.content {
+  background: #eee;
+  width: 90vw;
+  margin: auto;
+  margin-top: 20px;
+  padding: 40px;
+  padding-top: 60px;
+  padding-left: 60px;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
